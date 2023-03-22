@@ -1,7 +1,7 @@
 Java 8 Exercises
 ================
 
-Created for the purpose of hands-on workshop.
+Created based on internet examples for practice java streams
 
 Contains both theory - in Java classes so you can play with it - and exercises (with hints) to solve on your own.
 
